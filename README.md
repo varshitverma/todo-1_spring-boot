@@ -1,7 +1,7 @@
 Given four files `TodoController.java`, `TodoRepository.java`, `TodoService.java` and  `Todo.java`.
 The `TodoService` class has a variable named `todoList`, which is a HashMap that holds `Integer`s as keys and `Todo` objects as values. Initially, it contains data of **5** todos.
 
-### Completion Instructions
+### Instructions
 
 - `Todo.java`: `Todo` class should contain the following attributes.
 
